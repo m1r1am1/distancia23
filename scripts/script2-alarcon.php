@@ -7,7 +7,7 @@
  * 
  * @author Míriam Érika Alarcón Icochea
  * 
- * @version 1.9
+ * @version 1.7
  */
 class Calculadora {
   /**
